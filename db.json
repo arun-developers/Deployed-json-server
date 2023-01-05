@@ -3,6 +3,7 @@
         {
             "id": 1,
             "brand": "Tata",
+            "image": "https://img.freepik.com/free-vector/modern-blue-urban-adventure-suv-vehicle-illustration_1344-205.jpg?w=2000",
             "year": 2019,
             "type": "Manual",
             "kms": 10000,
@@ -12,6 +13,7 @@
         {
             "id": 2,
             "brand": "Tata",
+            "image": "https://img.freepik.com/free-vector/modern-blue-urban-adventure-suv-vehicle-illustration_1344-205.jpg?w=2000",
             "type": "AMT",
             "year": 2017,
             "kms": 8000,
@@ -23,6 +25,7 @@
         {
             "id": 1,
             "brand": "Tata",
+            "image": "https://img.freepik.com/free-vector/modern-blue-urban-adventure-suv-vehicle-illustration_1344-205.jpg?w=2000",
             "year": 2019,
             "type": "Manual",
             "kms": 10000,
