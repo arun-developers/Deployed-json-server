@@ -32,5 +32,20 @@
             "Description": "Tata Altroz with all original documents",
             "Price": 500000
         }
+    ],
+    "userdetails": [
+        {
+            "id": 1,
+            "email": "aruns3435@gmail.com",
+            "username": "Arun singh",
+            "password": "123456",
+            "conformpassword": "123456"
+        }
+    ],
+    "task": [
+        {
+            "id": 1,
+            "taskname": "To learn react"
+        }
     ]
 }
