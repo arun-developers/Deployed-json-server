@@ -47,5 +47,21 @@
             "id": 1,
             "taskname": "To learn react"
         }
+    ],
+    "dogs": [
+        {
+            "id": 1,
+            "name": "Cherry",
+            "age": 2,
+            "place": "Kanpur",
+            "gender": "Male"
+        },
+        {
+            "id": 2,
+            "name": "Tommy",
+            "age": 3,
+            "place": "Banglore",
+            "gender": "Female"
+        }
     ]
 }
