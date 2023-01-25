@@ -63,5 +63,21 @@
             "place": "Banglore",
             "gender": "Female"
         }
+    ],
+    "jobsdata": [
+        {
+            "id": 1,
+            "comapnyname": "Google India",
+            "position": "Senior Software Engineer",
+            "contract": "Full Time",
+            "location": "Bangalore"
+        },
+        {
+            "id": 2,
+            "comapnyname": "Facebook India",
+            "position": "Junier Software Engineer",
+            "contract": "Part Time",
+            "location": "Delhi"
+        }
     ]
 }
